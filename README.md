@@ -1,6 +1,6 @@
 # 👋 Heyy there, that’s me
 
-I'm a Full Stack Developer, but let's be honest I vibe way more with the **backend**
+I'm a Full Stack Developer, but to be honest I vibe way more with the **backend**
 
 ## 🛠️ What I Work With
 - 💻 Java & Spring Boot (my backend comfort zone)
