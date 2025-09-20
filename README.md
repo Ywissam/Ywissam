@@ -3,7 +3,7 @@
 I'm a Full Stack Developer, but to be honest I vibe way more with the **backend**
 
 ## 🛠️ What I Work With
-- 💻 Java & Spring Boot (my backend comfort zone)
+- 💻 Java & Spring Boot 
 - 🌐 Angular & TypeScript 
 - 🗃️ PostgreSQL | JWT | REST APIs 
 
